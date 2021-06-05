@@ -50,7 +50,7 @@
 </template>
 
 <script>
-import { useCart, useShippingProvider, cartGetters } from '@vue-storefront/reactioncommerce';
+import { useCart, useShippingProvider, cartGetters } from '@kali604/reactioncommerce';
 import {
   SfHeading,
   SfButton,

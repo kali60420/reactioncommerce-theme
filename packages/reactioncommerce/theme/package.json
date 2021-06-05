@@ -21,6 +21,8 @@
     "@nuxtjs/pwa": "^3.2.2",
     "@storefront-ui/vue": "0.10.3",
     "@kali604/reactioncommerce": "latest",
+    "@kali604/reactioncommerce-api": "latest",
+    "@kali604/reactioncommerce-composables": "latest",
     "@vue-storefront/middleware": "^2.3.3",
     "@vue-storefront/nuxt": "^2.3.3",
     "@vue-storefront/nuxt-theme": "^2.3.3",
